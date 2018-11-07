@@ -7,8 +7,6 @@ public class Lexer {
 	private String data;
 	private ArrayList<String> tokens;
 	
-	private String numbers = "0123456789";
-	
 	public Lexer(String data) {
 		this.data = data;
 		this.tokens = new ArrayList<String>();
