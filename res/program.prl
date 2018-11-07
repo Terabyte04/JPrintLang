@@ -1,0 +1,18 @@
+PRINT "Hello, world!"
+PRINT "This is PrintLang!"
+PRINT "This interpreter is written in Java!"
+PRINT "Hello again!"
+PRINT " "
+
+INPUT "Input something!"
+PRINT "Thanks for the input"
+PRINT " "
+
+INPUT "You better input something again you nigger:"
+PRINT "Thanks lol"
+PRINT " "
+
+INPUT "Something:"
+PRINT "Clearing..."
+CLEAR
+PRINT " "
