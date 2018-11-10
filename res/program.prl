@@ -8,7 +8,7 @@ INPUT "Input something!"
 PRINT "Thanks for the input"
 PRINT " "
 
-INPUT "You better input something again you nigger:"
+INPUT "You better input something again:"
 PRINT "Thanks lol"
 PRINT " "
 
